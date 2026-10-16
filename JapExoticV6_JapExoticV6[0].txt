@@ -1,0 +1,15 @@
+japexoticv6_upshift_2.wav
+japexoticv6_onverylow.wav
+japexoticv6_limiter.wav
+japexoticv6_offlow.wav
+japexoticv6_onmid.wav
+japexoticv6_downshift_1.wav
+japexoticv6_offmid.wav
+japexoticv6_offhigh.wav
+japexoticv6_onidle.wav
+japexoticv6_onlow.wav
+japexoticv6_upshift_1.wav
+japexoticv6_startup.wav
+japexoticv6_downshift_2.wav
+japexoticv6_onhigh.wav
+japexoticv6_idle.wav
