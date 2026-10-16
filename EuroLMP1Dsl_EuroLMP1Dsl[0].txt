@@ -1,0 +1,17 @@
+eurolmp1dsl_offverylow.wav
+eurolmp1dsl_offlimiter.wav
+eurolmp1dsl_downshift_1.wav
+eurolmp1dsl_onmid.wav
+eurolmp1dsl_offlow.wav
+eurolmp1dsl_onhigh.wav
+eurolmp1dsl_offmid.wav
+eurolmp1dsl_downshift_2.wav
+eurolmp1dsl_startup.wav
+eurolmp1dsl_offhigh.wav
+eurolmp1dsl_onverylow.wav
+eurolmp1dsl_onidle.wav
+eurolmp1dsl_idle.wav
+eurolmp1dsl_limiter.wav
+eurolmp1dsl_upshift_1.wav
+eurolmp1dsl_onlow.wav
+eurolmp1dsl_upshift_2.wav

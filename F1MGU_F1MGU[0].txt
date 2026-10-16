@@ -1,0 +1,12 @@
+f1mgu_on_ramp_5_12000.wav
+f1mgu_off_ramp_5_8000.wav
+f1mgu_off_ramp_5_10000.wav
+f1mgu_on_ramp_5_8000.wav
+f1mgu_on_ramp_3500.wav
+f1mgu_on_ramp_5_10000.wav
+f1mgu_off_ramp_5_12000.wav
+f1mgu_on_ramp_5_6000.wav
+f1mgu_off_ramp_5_6000.wav
+f1mgu_on_ramp_4000.wav
+f1mgu_off_ramp_4000.wav
+f1mgu_off_ramp_3500.wav
