@@ -1,0 +1,17 @@
+gpv6t_onidle.wav
+gpv6t_offlow.wav
+gpv6t_offhigh.wav
+gpv6t_startup.wav
+gpv6t_offverylow.wav
+gpv6t_downshift_1.wav
+gpv6t_onhigh.wav
+gpv6t_onlow.wav
+gpv6t_idle.wav
+gpv6t_upshift_2.wav
+gpv6t_limiter.wav
+turbo_whine_3.wav
+gpv6t_offmid.wav
+gpv6t_upshift_1.wav
+gpv6t_onmid.wav
+turbo_hiss_2.wav
+gpv6t_onverylow.wav
